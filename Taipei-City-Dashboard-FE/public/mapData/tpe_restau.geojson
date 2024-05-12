@@ -1,0 +1,5753 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5503157, 25.0548617]
+			},
+			"properties": {
+				"序號": 1,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區敦化北路165巷5號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5432347, 25.0240436]
+			},
+			"properties": {
+				"序號": 2,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區復興南路二段288號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5752559, 25.0604224]
+			},
+			"properties": {
+				"序號": 3,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區民善街88號5樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5432512, 25.041211]
+			},
+			"properties": {
+				"序號": 4,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路三段300號B3"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5482195, 25.0335078]
+			},
+			"properties": {
+				"序號": 5,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區信義路四段115-2號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5634869, 25.0443206]
+			},
+			"properties": {
+				"序號": 6,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區忠孝東路四段553巷46弄11號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5446383, 25.0438598]
+			},
+			"properties": {
+				"序號": 7,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區復興南路一段107巷5弄2號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5289148, 25.0285574]
+			},
+			"properties": {
+				"序號": 8,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區潮州街133號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5467941, 25.0588403]
+			},
+			"properties": {
+				"序號": 9,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區復興北路313巷38號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5048409, 25.0457659]
+			},
+			"properties": {
+				"序號": 10,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區武昌街二段83之8號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.529291, 25.0267802]
+			},
+			"properties": {
+				"序號": 11,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區和平東路一段129號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5245943, 25.105306]
+			},
+			"properties": {
+				"序號": 12,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區中山北路六段77號8F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5451473, 25.0432931]
+			},
+			"properties": {
+				"序號": 13,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區大安路一段52巷21號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5534728, 25.038585]
+			},
+			"properties": {
+				"序號": 14,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區仁愛路四段345巷2弄11號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5483016, 25.0402749]
+			},
+			"properties": {
+				"序號": 15,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區敦化南路一段246號B1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5580267, 25.045903]
+			},
+			"properties": {
+				"序號": 16,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區光復南路55號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5467254, 25.0423401]
+			},
+			"properties": {
+				"序號": 17,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區大安路一段75巷9號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5431893, 25.0408977]
+			},
+			"properties": {
+				"序號": 18,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路三段300號11樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5483542, 25.0404437]
+			},
+			"properties": {
+				"序號": 19,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區敦化南路一段246號B2"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5480819, 25.0610088]
+			},
+			"properties": {
+				"序號": 20,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區敦化北路244巷29號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5494185, 25.0339868]
+			},
+			"properties": {
+				"序號": 21,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區敦化南路一段331號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5294135, 25.0258172]
+			},
+			"properties": {
+				"序號": 22,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區龍泉街7號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5252655, 25.030559]
+			},
+			"properties": {
+				"序號": 23,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區金華街145號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5338781, 25.1173343]
+			},
+			"properties": {
+				"序號": 24,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區台北市士林區忠誠路二段 200 號 2 樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5449599, 25.041913]
+			},
+			"properties": {
+				"序號": 25,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路四段45號12樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5777639, 25.0644339]
+			},
+			"properties": {
+				"序號": 26,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區新湖三路134號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5106655, 25.1150872]
+			},
+			"properties": {
+				"序號": 27,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區實踐街82巷6號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5433664, 25.0513893]
+			},
+			"properties": {
+				"序號": 28,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區南京東路三段216巷4號一樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5439505, 25.0307794]
+			},
+			"properties": {
+				"序號": 29,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區瑞安街31巷1-1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5241331, 25.0676057]
+			},
+			"properties": {
+				"序號": 30,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區雙城街46巷1號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5113892, 25.0444845]
+			},
+			"properties": {
+				"序號": 31,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區博愛路86號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5168171, 25.0360978]
+			},
+			"properties": {
+				"序號": 32,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區中山南路77號B1F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5269707, 25.0336693]
+			},
+			"properties": {
+				"序號": 33,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區金山南路二段6號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5058635, 25.0378901]
+			},
+			"properties": {
+				"序號": 34,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區台北市萬華區桂林路1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5196175, 25.1201823]
+			},
+			"properties": {
+				"序號": 35,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區石牌路二段201號生活廣場"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5168171, 25.0360978]
+			},
+			"properties": {
+				"序號": 36,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區中山南路77號B1F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5481944, 25.0399224]
+			},
+			"properties": {
+				"序號": 37,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區敦化南路一段246號7F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.544963, 25.0419132]
+			},
+			"properties": {
+				"序號": 38,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路四段45號11樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5188189, 25.0442304]
+			},
+			"properties": {
+				"序號": 39,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區台北市中正區中山南路8號B1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5245359, 25.1047446]
+			},
+			"properties": {
+				"序號": 40,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區中山北路六段77號5樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.523427, 25.025076]
+			},
+			"properties": {
+				"序號": 41,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區南昌路二段207號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5460631, 25.0475889]
+			},
+			"properties": {
+				"序號": 42,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區八德路二段366巷11號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5347223, 25.0592984]
+			},
+			"properties": {
+				"序號": 43,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區民生東路二段147巷6弄1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5509309, 25.0405875]
+			},
+			"properties": {
+				"序號": 44,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路四段170巷11號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5449393, 25.0421272]
+			},
+			"properties": {
+				"序號": 45,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區台北市大安區忠孝東路四段45號 11樓(忠孝SOGO百貨)"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5306426, 25.0326634]
+			},
+			"properties": {
+				"序號": 46,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區台北市大安區信義路二段 198 巷 7-3 號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5171935, 25.049308]
+			},
+			"properties": {
+				"序號": 47,
+				"行政區": "大同區",
+				"餐廳地址": "臺北市大同區台北市大同區承德路一段1號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5754615, 25.0424048]
+			},
+			"properties": {
+				"序號": 48,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區忠孝東路五段423巷28號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.544113, 25.034036]
+			},
+			"properties": {
+				"序號": 49,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區復興南路1段253巷10號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5068203, 25.0363705]
+			},
+			"properties": {
+				"序號": 50,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區中華路二段1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5180822, 25.0888242]
+			},
+			"properties": {
+				"序號": 51,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區大南路315號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5099903, 25.0830742]
+			},
+			"properties": {
+				"序號": 52,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區延平北路五段179號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.532679, 25.1071218]
+			},
+			"properties": {
+				"序號": 53,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區忠義街113-1號一樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5075958, 25.0874272]
+			},
+			"properties": {
+				"序號": 54,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區社子街36號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5212951, 25.0807718]
+			},
+			"properties": {
+				"序號": 55,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區通河街125號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5158123, 25.0677675]
+			},
+			"properties": {
+				"序號": 56,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區大龍街150號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5536985, 25.0196969]
+			},
+			"properties": {
+				"序號": 57,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區樂業街153號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5132821, 25.0627849]
+			},
+			"properties": {
+				"序號": 58,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區民權西路226號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5289402, 25.0569957]
+			},
+			"properties": {
+				"序號": 59,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區中原街41號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5209408, 25.0611439]
+			},
+			"properties": {
+				"序號": 60,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區天祥路22號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5304992, 25.0658122]
+			},
+			"properties": {
+				"序號": 61,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區吉林路397號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5427219, 25.0658749]
+			},
+			"properties": {
+				"序號": 62,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區復興北路514巷34號一樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5345043, 25.0645542]
+			},
+			"properties": {
+				"序號": 63,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區農安街170號1樓、地下室"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5400019, 25.0644068]
+			},
+			"properties": {
+				"序號": 64,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區行仁里五常街63號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5303675, 25.0601247]
+			},
+			"properties": {
+				"序號": 65,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區吉林路205號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5145459, 25.0294891]
+			},
+			"properties": {
+				"序號": 66,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區寧波西街100號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5923469, 25.0849563]
+			},
+			"properties": {
+				"序號": 67,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區金龍路74號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5905476, 25.0777839]
+			},
+			"properties": {
+				"序號": 68,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區星雲街14號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.588719, 25.0814849]
+			},
+			"properties": {
+				"序號": 69,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區內湖路二段326號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5750389, 25.0815876]
+			},
+			"properties": {
+				"序號": 70,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區內湖路一段629巷41號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.567331, 24.9833099]
+			},
+			"properties": {
+				"序號": 71,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區木新路二段229號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.547621, 24.9871619]
+			},
+			"properties": {
+				"序號": 72,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區木柵路一段101號1樓及地下室"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5393974, 24.9936116]
+			},
+			"properties": {
+				"序號": 73,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區景福街234號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5448319, 24.9953633]
+			},
+			"properties": {
+				"序號": 74,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區景興路99號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.539463, 24.999653]
+			},
+			"properties": {
+				"序號": 75,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區萬隆里景福街4號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5506281, 25.0030965]
+			},
+			"properties": {
+				"序號": 76,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區福興路45號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5620296, 24.9830229]
+			},
+			"properties": {
+				"序號": 77,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區興隆路四段112號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.550055, 25.001113]
+			},
+			"properties": {
+				"序號": 78,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區興隆路二段215之2號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.499544, 25.1301336]
+			},
+			"properties": {
+				"序號": 79,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區大興街48號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4981713, 25.1435712]
+			},
+			"properties": {
+				"序號": 80,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區中和街402號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5144748, 25.1189597]
+			},
+			"properties": {
+				"序號": 81,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區立農街二段259號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.467074, 25.120881]
+			},
+			"properties": {
+				"序號": 82,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區知行路249號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5151793, 25.1093885]
+			},
+			"properties": {
+				"序號": 83,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區致遠一路一段95號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5097836, 25.1153574]
+			},
+			"properties": {
+				"序號": 84,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區實踐街61號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.519484, 25.111239]
+			},
+			"properties": {
+				"序號": 85,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區建民路161-5號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5524769, 25.0582061]
+			},
+			"properties": {
+				"序號": 86,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區民生東路四段103號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5661649, 25.0498546]
+			},
+			"properties": {
+				"序號": 87,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區南京東路五段250巷18弄2-1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5659493, 25.0627509]
+			},
+			"properties": {
+				"序號": 88,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區撫遠街352號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5704733, 25.045385]
+			},
+			"properties": {
+				"序號": 89,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區永吉路120巷1號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5657673, 25.026644]
+			},
+			"properties": {
+				"序號": 90,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區吳興街281巷59號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.578496, 25.0394579]
+			},
+			"properties": {
+				"序號": 91,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區松山路465巷2號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5686959, 25.0263616]
+			},
+			"properties": {
+				"序號": 92,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區松仁路227號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.577832, 25.035829]
+			},
+			"properties": {
+				"序號": 93,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區信義路六段106號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5559809, 25.0242317]
+			},
+			"properties": {
+				"序號": 94,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區信安街127號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5876901, 25.0394021]
+			},
+			"properties": {
+				"序號": 95,
+				"行政區": "南港區",
+				"餐廳地址": "臺北市南港區福德街312號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5024379, 25.0218258]
+			},
+			"properties": {
+				"序號": 96,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區青年路140號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5056842, 25.0272318]
+			},
+			"properties": {
+				"序號": 97,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區國興路98號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4950984, 25.0291935]
+			},
+			"properties": {
+				"序號": 98,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區雙園街15號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4952677, 25.0244721]
+			},
+			"properties": {
+				"序號": 99,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區寶興街149號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5483542, 25.0404437]
+			},
+			"properties": {
+				"序號": 100,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區敦化南路一段246號B2"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5483016, 25.0402749]
+			},
+			"properties": {
+				"序號": 101,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區敦化南路一段246號B1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5245943, 25.105306]
+			},
+			"properties": {
+				"序號": 102,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區中山北路六段77號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5278003, 25.0951836]
+			},
+			"properties": {
+				"序號": 103,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區台北市士林區中山北路5段565號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5757402, 25.0628499]
+			},
+			"properties": {
+				"序號": 104,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區台北市內湖區舊宗路188號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.513943, 25.042781]
+			},
+			"properties": {
+				"序號": 105,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區台北市中正區懷寧街90號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6114623, 25.0696916]
+			},
+			"properties": {
+				"序號": 106,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區台北市內湖區康寧路3段72號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5091182, 25.0415609]
+			},
+			"properties": {
+				"序號": 107,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區台北市中正區寶慶路32號1樓(遠東百貨1樓)"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5033895, 25.0270276]
+			},
+			"properties": {
+				"序號": 108,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區中華路二段416巷84號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5245943, 25.105306]
+			},
+			"properties": {
+				"序號": 109,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區中山北路六段77號B1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5449392, 25.0417855]
+			},
+			"properties": {
+				"序號": 110,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路四段45號B2"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5188189, 25.0442304]
+			},
+			"properties": {
+				"序號": 111,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區台北市中正區中山南路8號B1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5269515, 25.050578]
+			},
+			"properties": {
+				"序號": 112,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區南京東路一段132巷33號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.548166, 25.0429632]
+			},
+			"properties": {
+				"序號": 113,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路四段101巷27號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5459666, 25.055948]
+			},
+			"properties": {
+				"序號": 114,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區興安街212號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.528172, 25.022084]
+			},
+			"properties": {
+				"序號": 115,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區師大路106號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5712632, 25.0784175]
+			},
+			"properties": {
+				"序號": 116,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區台北市內湖區瑞光路413號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5196175, 25.1201823]
+			},
+			"properties": {
+				"序號": 117,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區石牌路二段201號生活廣場"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.540607, 25.0513254]
+			},
+			"properties": {
+				"序號": 118,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區龍江路93號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5449393, 25.0421272]
+			},
+			"properties": {
+				"序號": 119,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路四段45號11F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5270005, 25.0256415]
+			},
+			"properties": {
+				"序號": 120,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區和平東路一段162號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5910904, 25.0728868]
+			},
+			"properties": {
+				"序號": 121,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區成功路二段325號B1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5245943, 25.105306]
+			},
+			"properties": {
+				"序號": 122,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區中山北路六段77號8樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5437484, 25.0337137]
+			},
+			"properties": {
+				"序號": 123,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區復興南路一段323號B1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5314695, 25.1118523]
+			},
+			"properties": {
+				"序號": 124,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區忠誠路二段55號B1F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5164145, 25.0462341]
+			},
+			"properties": {
+				"序號": 125,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區忠孝西路一段38號B1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5233404, 25.0629726]
+			},
+			"properties": {
+				"序號": 126,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區民權東路一段9號B1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5329541, 25.0598098]
+			},
+			"properties": {
+				"序號": 127,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區松江路276號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5168311, 25.0493616]
+			},
+			"properties": {
+				"序號": 128,
+				"行政區": "大同區",
+				"餐廳地址": "臺北市大同區承德路一段1號B3"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5450238, 25.0414146]
+			},
+			"properties": {
+				"序號": 129,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路四段52號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6118711, 25.0700709]
+			},
+			"properties": {
+				"序號": 130,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區康寧路三段187號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5786341, 25.0492345]
+			},
+			"properties": {
+				"序號": 131,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區松山路11號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5448389, 25.0515859]
+			},
+			"properties": {
+				"序號": 132,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區南京東路三段258號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6047161, 25.0526211]
+			},
+			"properties": {
+				"序號": 133,
+				"行政區": "南港區",
+				"餐廳地址": "臺北市南港區忠孝東路7段369號7樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5571648, 25.0833072]
+			},
+			"properties": {
+				"序號": 134,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區敬業三路20號B1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5653962, 25.0408461]
+			},
+			"properties": {
+				"序號": 135,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區忠孝東路五段8號B2"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5159125, 25.0475172]
+			},
+			"properties": {
+				"序號": 136,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區北平西路3號2樓(東3門)"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5442673, 25.0459797]
+			},
+			"properties": {
+				"序號": 137,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區復興南路一段39號GF"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.504345, 25.137063]
+			},
+			"properties": {
+				"序號": 138,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區中心里泉源路１２號２樓之１"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5207243, 25.0520942]
+			},
+			"properties": {
+				"序號": 139,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區南京西路14號B1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5069911, 25.1350379]
+			},
+			"properties": {
+				"序號": 140,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區奇岩路1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5069911, 25.1350379]
+			},
+			"properties": {
+				"序號": 141,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區奇岩路1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5072708, 25.1347904]
+			},
+			"properties": {
+				"序號": 142,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區奇岩路一號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.524062, 25.0538697]
+			},
+			"properties": {
+				"序號": 143,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區中山北路二段39巷14-1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5425382, 25.1366721]
+			},
+			"properties": {
+				"序號": 144,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區國泰街9號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5040002, 25.0464845]
+			},
+			"properties": {
+				"序號": 145,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區漢口街二段125號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5168171, 25.0360978]
+			},
+			"properties": {
+				"序號": 146,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區中山南路77號B1F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5196175, 25.1201823]
+			},
+			"properties": {
+				"序號": 147,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區石牌路二段201號生活廣場"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5910904, 25.0728868]
+			},
+			"properties": {
+				"序號": 148,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區成功路二段325號B1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5435713, 25.0238599]
+			},
+			"properties": {
+				"序號": 149,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區復興南路二段325號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5666922, 25.0413149]
+			},
+			"properties": {
+				"序號": 150,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區忠孝東路五段61號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.511012, 25.136195]
+			},
+			"properties": {
+				"序號": 151,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區溫泉路110-1號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5327883, 25.1074578]
+			},
+			"properties": {
+				"序號": 152,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區忠義街117-3號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5498627, 25.053066]
+			},
+			"properties": {
+				"序號": 153,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區敦化北路135號B2"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5941919, 25.0613527]
+			},
+			"properties": {
+				"序號": 154,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區安康路22巷33號4樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6162094, 25.058852]
+			},
+			"properties": {
+				"序號": 155,
+				"行政區": "南港區",
+				"餐廳地址": "臺北市南港區經貿二路168號4樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5516737, 25.0475427]
+			},
+			"properties": {
+				"序號": 156,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區八德路三段12巷5弄30號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5135039, 25.0703725]
+			},
+			"properties": {
+				"序號": 157,
+				"行政區": "大同區",
+				"餐廳地址": "臺北市大同區重慶北路三段232號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.541694, 25.0465223]
+			},
+			"properties": {
+				"序號": 158,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區安東街4之5號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5432417, 25.0408932]
+			},
+			"properties": {
+				"序號": 159,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路3段300號B2"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5061818, 25.037703]
+			},
+			"properties": {
+				"序號": 160,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區桂林路1號4樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5626528, 25.0404216]
+			},
+			"properties": {
+				"序號": 161,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區逸仙路50巷20號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5168171, 25.0360978]
+			},
+			"properties": {
+				"序號": 162,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區中山南路77號B1F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5168171, 25.0360978]
+			},
+			"properties": {
+				"序號": 163,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區中山南路77號B1F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5257142, 25.0541679]
+			},
+			"properties": {
+				"序號": 164,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區台北市中山區林森北路247號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6158199, 25.0583871]
+			},
+			"properties": {
+				"序號": 165,
+				"行政區": "南港區",
+				"餐廳地址": "臺北市南港區台北市南港區經貿二路166號2樓(中信總部A棟)"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5068203, 25.0363705]
+			},
+			"properties": {
+				"序號": 166,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區中華路二段1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5426486, 25.0224472]
+			},
+			"properties": {
+				"序號": 167,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區和平東路二段118巷52弄3號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5501004, 25.0593287]
+			},
+			"properties": {
+				"序號": 168,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區敦化北路315號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5463658, 25.0582253]
+			},
+			"properties": {
+				"序號": 169,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區民生東路三段117號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5058635, 25.0378901]
+			},
+			"properties": {
+				"序號": 170,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區萬華區桂林路1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5196175, 25.1201823]
+			},
+			"properties": {
+				"序號": 171,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區石牌路二段201號生活廣場"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5453353, 25.0395577]
+			},
+			"properties": {
+				"序號": 172,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區仁愛路四段27巷9號B1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5338937, 25.0517795]
+			},
+			"properties": {
+				"序號": 173,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區南京東路二段140號B1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5432417, 25.0408932]
+			},
+			"properties": {
+				"序號": 174,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路三段300號10樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5391805, 25.0418775]
+			},
+			"properties": {
+				"序號": 175,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路三段205之1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5449393, 25.0421272]
+			},
+			"properties": {
+				"序號": 176,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路四段45號11F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5142598, 25.0620848]
+			},
+			"properties": {
+				"序號": 177,
+				"行政區": "大同區",
+				"餐廳地址": "臺北市大同區蘭州街蘭州街14號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5083329, 25.0546858]
+			},
+			"properties": {
+				"序號": 178,
+				"行政區": "大同區",
+				"餐廳地址": "臺北市大同區貴德街47－2號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5910904, 25.0728868]
+			},
+			"properties": {
+				"序號": 179,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區成功路二段325號B1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5168171, 25.0360978]
+			},
+			"properties": {
+				"序號": 180,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區中山南路77號B1F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5196175, 25.1201823]
+			},
+			"properties": {
+				"序號": 181,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區石牌路二段201號生活廣場"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5168171, 25.0360978]
+			},
+			"properties": {
+				"序號": 182,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區中山南路77號B1F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5612754, 24.9819877]
+			},
+			"properties": {
+				"序號": 183,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區木新路三段154號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5318617, 25.1063002]
+			},
+			"properties": {
+				"序號": 184,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區忠義街84號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5244973, 25.1051432]
+			},
+			"properties": {
+				"序號": 185,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區士林區中山北路六段77號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5432417, 25.0408932]
+			},
+			"properties": {
+				"序號": 186,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路三段300號9樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.578408, 25.041398]
+			},
+			"properties": {
+				"序號": 187,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區110臺北市信義區忠孝東路五段497號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5063942, 25.0388385]
+			},
+			"properties": {
+				"序號": 188,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區西寧南路285號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5245943, 25.105306]
+			},
+			"properties": {
+				"序號": 189,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區中山北路6段77號8樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5168171, 25.0360978]
+			},
+			"properties": {
+				"序號": 190,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區中山南路77號B1F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6072597, 25.0528955]
+			},
+			"properties": {
+				"序號": 191,
+				"行政區": "南港區",
+				"餐廳地址": "臺北市南港區忠孝東路七段371號B1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5667018, 25.0366706]
+			},
+			"properties": {
+				"序號": 192,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區台北市信義區松壽路9號8樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5452114, 25.0535557]
+			},
+			"properties": {
+				"序號": 193,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區台北市松山區慶城街29號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5431893, 25.0408977]
+			},
+			"properties": {
+				"序號": 194,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路三段300號11樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5567811, 25.0824425]
+			},
+			"properties": {
+				"序號": 195,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區樂群三路200號5樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5210481, 25.0518449]
+			},
+			"properties": {
+				"序號": 196,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區台北市中山區南京西路12號號7樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5631674, 25.0419937]
+			},
+			"properties": {
+				"序號": 197,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區忠孝東路四段553巷2弄7號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5445063, 25.0585947]
+			},
+			"properties": {
+				"序號": 198,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區復興北路307號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5910904, 25.0728868]
+			},
+			"properties": {
+				"序號": 199,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區成功路二段325號B1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5168171, 25.0360978]
+			},
+			"properties": {
+				"序號": 200,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區中山南路77號B1F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5196175, 25.1201823]
+			},
+			"properties": {
+				"序號": 201,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區石牌路二段201號生活廣場"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5910904, 25.0728868]
+			},
+			"properties": {
+				"序號": 202,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區成功路二段325號B1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.581026, 25.041239]
+			},
+			"properties": {
+				"序號": 203,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區大道路42巷21號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5910904, 25.0728868]
+			},
+			"properties": {
+				"序號": 204,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區成功路二段325號B1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5188189, 25.0442304]
+			},
+			"properties": {
+				"序號": 205,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區台北市中正區中山南路8號B1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5346868, 25.0606464]
+			},
+			"properties": {
+				"序號": 206,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區錦州街241巷1弄20號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5596868, 25.0313875]
+			},
+			"properties": {
+				"序號": 207,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區吳興街26號一樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5444543, 25.0446428]
+			},
+			"properties": {
+				"序號": 208,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區市民大道四段12之2號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5100259, 25.1153486]
+			},
+			"properties": {
+				"序號": 209,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區實踐街67號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5643644, 25.0498425]
+			},
+			"properties": {
+				"序號": 210,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區八德路1段82巷9弄13號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5250049, 25.0949519]
+			},
+			"properties": {
+				"序號": 211,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區台北市士林區中正路253號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5148084, 25.045466]
+			},
+			"properties": {
+				"序號": 212,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區館前路18號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5514325, 25.0424491]
+			},
+			"properties": {
+				"序號": 213,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區台北市大安區敦化南路一段187巷42號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5137092, 25.0424622]
+			},
+			"properties": {
+				"序號": 214,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區衡陽路9號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5255532, 25.0418934]
+			},
+			"properties": {
+				"序號": 215,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區台北市中正區濟南路一段321號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5168171, 25.0360978]
+			},
+			"properties": {
+				"序號": 216,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區中山南路77號B1F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.564395, 25.037525]
+			},
+			"properties": {
+				"序號": 217,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區市府路1號B1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5910904, 25.0728868]
+			},
+			"properties": {
+				"序號": 218,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區成功路二段325號B1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5467474, 25.043502]
+			},
+			"properties": {
+				"序號": 219,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區敦化南路一段160巷56號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5196175, 25.1201823]
+			},
+			"properties": {
+				"序號": 220,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區石牌路二段201號生活廣場"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5910904, 25.0728868]
+			},
+			"properties": {
+				"序號": 221,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區成功路二段325號B1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5168171, 25.0360978]
+			},
+			"properties": {
+				"序號": 222,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區中山南路77號B1F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5454299, 25.0574687]
+			},
+			"properties": {
+				"序號": 223,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區民生東路三段118號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5091924, 25.0626947]
+			},
+			"properties": {
+				"序號": 224,
+				"行政區": "大同區",
+				"餐廳地址": "臺北市大同區迪化街一段358-2號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5168171, 25.0360978]
+			},
+			"properties": {
+				"序號": 225,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區中山南路77號B1F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5058635, 25.0378901]
+			},
+			"properties": {
+				"序號": 226,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區台北市萬華區桂林路1號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.574356, 24.991606]
+			},
+			"properties": {
+				"序號": 227,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區秀明路二段16號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5910904, 25.0728868]
+			},
+			"properties": {
+				"序號": 228,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區成功路二段325號B1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5168171, 25.0360978]
+			},
+			"properties": {
+				"序號": 229,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區中山南路77號B1F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.540876, 25.0671]
+			},
+			"properties": {
+				"序號": 230,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區龍江路394巷2號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5659843, 25.0342834]
+			},
+			"properties": {
+				"序號": 231,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區台北市信義區松智路17號7樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.515721, 25.066161]
+			},
+			"properties": {
+				"序號": 232,
+				"行政區": "大同區",
+				"餐廳地址": "臺北市大同區台北市大同區承德路1段1號4樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5571648, 25.0833072]
+			},
+			"properties": {
+				"序號": 233,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區台北市中山區敬業3路20號5樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5658456, 25.0395856]
+			},
+			"properties": {
+				"序號": 234,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區台北市信義區松高路11號B1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6047509, 25.0526288]
+			},
+			"properties": {
+				"序號": 235,
+				"行政區": "南港區",
+				"餐廳地址": "臺北市南港區台北市南港區忠孝東路七段299號C棟1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5917598, 25.0496914]
+			},
+			"properties": {
+				"序號": 236,
+				"行政區": "南港區",
+				"餐廳地址": "臺北市南港區忠孝東路六段372號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5438603, 25.0556364]
+			},
+			"properties": {
+				"序號": 237,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區復興北路202號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5449393, 25.0421272]
+			},
+			"properties": {
+				"序號": 238,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路四段45號11F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5432417, 25.0408932]
+			},
+			"properties": {
+				"序號": 239,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路三段300號10樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5507169, 25.0985716]
+			},
+			"properties": {
+				"序號": 240,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區至善路二段266巷32號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5245943, 25.105306]
+			},
+			"properties": {
+				"序號": 241,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區中山北路六段77號8樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5311369, 25.0537444]
+			},
+			"properties": {
+				"序號": 242,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區四平街19號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5337443, 25.0237499]
+			},
+			"properties": {
+				"序號": 243,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區新生南路三段30號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5058635, 25.0378901]
+			},
+			"properties": {
+				"序號": 244,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區台北市萬華區桂林路1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5568037, 25.0426527]
+			},
+			"properties": {
+				"序號": 245,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區光復南路180巷16號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5196175, 25.1201823]
+			},
+			"properties": {
+				"序號": 246,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區石牌路二段201號生活廣場"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5499172, 25.0356286]
+			},
+			"properties": {
+				"序號": 247,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區敦化南路一段295巷9號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5058635, 25.0378901]
+			},
+			"properties": {
+				"序號": 248,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區台北市萬華區桂林路1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5809923, 25.0817534]
+			},
+			"properties": {
+				"序號": 249,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區內湖路二段103巷38號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5449393, 25.0421272]
+			},
+			"properties": {
+				"序號": 250,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路四段45號4F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5196175, 25.1201823]
+			},
+			"properties": {
+				"序號": 251,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區石牌路二段201號生活廣場"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5310088, 25.1153435]
+			},
+			"properties": {
+				"序號": 252,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區天母東路8巷67號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5483542, 25.0404437]
+			},
+			"properties": {
+				"序號": 253,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區敦化南路一段246號B2"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5245943, 25.105306]
+			},
+			"properties": {
+				"序號": 254,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區中山北路六段77號8F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5196175, 25.1201823]
+			},
+			"properties": {
+				"序號": 255,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區石牌路二段201號生活廣場"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5432417, 25.0408932]
+			},
+			"properties": {
+				"序號": 256,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路三段300號10樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5549737, 25.0369053]
+			},
+			"properties": {
+				"序號": 257,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區仁愛路四段300巷9弄4號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5004851, 25.1304604]
+			},
+			"properties": {
+				"序號": 258,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區大興街58號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5170835, 25.0443093]
+			},
+			"properties": {
+				"序號": 259,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區常德街1號B1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5337443, 25.0237499]
+			},
+			"properties": {
+				"序號": 260,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區新生南路3段30號B1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5043037, 25.0407289]
+			},
+			"properties": {
+				"序號": 261,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區昆明街214號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5853416, 25.0521215]
+			},
+			"properties": {
+				"序號": 262,
+				"行政區": "南港區",
+				"餐廳地址": "臺北市南港區南港路三段149巷49弄12號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5519139, 25.0585116]
+			},
+			"properties": {
+				"序號": 263,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區民生東路四段97巷1弄2號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5206807, 25.0408601]
+			},
+			"properties": {
+				"序號": 264,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區徐州路2號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5645389, 25.033976]
+			},
+			"properties": {
+				"序號": 265,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區信義路五段7號85號樓B側"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.531716, 25.0186079]
+			},
+			"properties": {
+				"序號": 266,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區羅斯福路三段283巷20號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5432417, 25.0408932]
+			},
+			"properties": {
+				"序號": 267,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路三段300號7樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5061818, 25.037703]
+			},
+			"properties": {
+				"序號": 268,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區台北市萬華區桂林路1號4樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5659555, 25.0343073]
+			},
+			"properties": {
+				"序號": 269,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區松智路17號2B"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5534098, 25.0397665]
+			},
+			"properties": {
+				"序號": 270,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路四段216巷27弄2號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5534984, 25.0426381]
+			},
+			"properties": {
+				"序號": 271,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區延吉街70巷6弄3號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.544963, 25.0419132]
+			},
+			"properties": {
+				"序號": 272,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路四段45號11樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5315196, 25.0182278]
+			},
+			"properties": {
+				"序號": 273,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區羅斯福路三段283巷3號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5148897, 25.1380847]
+			},
+			"properties": {
+				"序號": 274,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區幽雅路32號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5407643, 25.0484864]
+			},
+			"properties": {
+				"序號": 275,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區長安東路二段169之12號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5169983, 25.0477467]
+			},
+			"properties": {
+				"序號": 276,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區北平西路3號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5202225, 25.0531403]
+			},
+			"properties": {
+				"序號": 277,
+				"行政區": "大同區",
+				"餐廳地址": "臺北市大同區台北市大同區南京西路25巷2-1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5469919, 25.0406471]
+			},
+			"properties": {
+				"序號": 278,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區台北市大安區敦化南路一段236巷17號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5660108, 25.035488]
+			},
+			"properties": {
+				"序號": 279,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區台北市信義區松壽路12號3樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6149583, 25.0588333]
+			},
+			"properties": {
+				"序號": 280,
+				"行政區": "南港區",
+				"餐廳地址": "臺北市南港區台北市南港區經貿二路186-1號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5473381, 25.0480381]
+			},
+			"properties": {
+				"序號": 281,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區八德路二段424號B1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6064554, 25.0526213]
+			},
+			"properties": {
+				"序號": 282,
+				"行政區": "南港區",
+				"餐廳地址": "臺北市南港區忠孝東路七段359號7樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5748083, 25.1427814]
+			},
+			"properties": {
+				"序號": 283,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區平菁街43巷99號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5257142, 25.0541679]
+			},
+			"properties": {
+				"序號": 284,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區台北市中山區林森北路247號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5679503, 25.0368737]
+			},
+			"properties": {
+				"序號": 285,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區台北市信義區松仁路58號7樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.614672, 25.0588739]
+			},
+			"properties": {
+				"序號": 286,
+				"行政區": "南港區",
+				"餐廳地址": "臺北市南港區台北市南港區經貿二路188-1號2樓(中信總部C棟)"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5437974, 25.0417427]
+			},
+			"properties": {
+				"序號": 287,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區台北市信義區忠孝東路5段8號3樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.509168, 25.04167]
+			},
+			"properties": {
+				"序號": 288,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區台北市中正區寶慶路32號6樓(遠東百貨6樓)"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5483542, 25.0404437]
+			},
+			"properties": {
+				"序號": 289,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區敦化南路一段246號B2"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5168171, 25.0360978]
+			},
+			"properties": {
+				"序號": 290,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區中山南路77號B1F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5129611, 25.0455695]
+			},
+			"properties": {
+				"序號": 291,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區重慶南路一段30號21樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5447742, 25.0419194]
+			},
+			"properties": {
+				"序號": 292,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路四段45號2F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5449393, 25.0421272]
+			},
+			"properties": {
+				"序號": 293,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路四段45號12F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5306017, 25.0194042]
+			},
+			"properties": {
+				"序號": 294,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區羅斯福路三段269巷6之1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5245943, 25.105306]
+			},
+			"properties": {
+				"序號": 295,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區中山北路六段77號8樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5630504, 25.0426146]
+			},
+			"properties": {
+				"序號": 296,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區忠孝東路四段553巷16弄2號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5110787, 25.0835435]
+			},
+			"properties": {
+				"序號": 297,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區葫東街28-1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5474966, 25.0822321]
+			},
+			"properties": {
+				"序號": 298,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區北安路595巷19號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5622466, 25.0868205]
+			},
+			"properties": {
+				"序號": 299,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區文湖街49號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5711666, 25.077819]
+			},
+			"properties": {
+				"序號": 300,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區瑞光路392號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5713842, 25.0821593]
+			},
+			"properties": {
+				"序號": 301,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區內湖路一段411巷9弄4號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5904852, 25.0775623]
+			},
+			"properties": {
+				"序號": 302,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區星雲街10號1F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5678929, 25.084282]
+			},
+			"properties": {
+				"序號": 303,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區內湖路一段323巷30號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5849786, 25.0573068]
+			},
+			"properties": {
+				"序號": 304,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區新明路198號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5774597, 25.0640974]
+			},
+			"properties": {
+				"序號": 305,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區新湖三路118號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6076642, 25.0709429]
+			},
+			"properties": {
+				"序號": 306,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區民權東路六段296巷67號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5832438, 25.0773072]
+			},
+			"properties": {
+				"序號": 307,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區文德路90巷43號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.591069, 25.085668]
+			},
+			"properties": {
+				"序號": 308,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區金龍路107號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5282917, 25.1121455]
+			},
+			"properties": {
+				"序號": 309,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區士東路71號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5567748, 24.9805764]
+			},
+			"properties": {
+				"序號": 310,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區木新路三段315號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5659902, 24.9828512]
+			},
+			"properties": {
+				"序號": 311,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區木新路二段277號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.542124, 24.9893592]
+			},
+			"properties": {
+				"序號": 312,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區景興路288號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5545828, 25.0006072]
+			},
+			"properties": {
+				"序號": 313,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區辛亥路五段5號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5760303, 24.988556]
+			},
+			"properties": {
+				"序號": 314,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區萬壽路25巷3號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5405102, 24.9901229]
+			},
+			"properties": {
+				"序號": 315,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區羅斯福路六段455巷21號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.561408, 24.9858]
+			},
+			"properties": {
+				"序號": 316,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區興隆路四段119號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5375967, 25.0020364]
+			},
+			"properties": {
+				"序號": 317,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區羅斯福路五段218巷25號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5458685, 25.0298242]
+			},
+			"properties": {
+				"序號": 318,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區大安路二段134號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.582126, 25.041349]
+			},
+			"properties": {
+				"序號": 319,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區大道路50號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5356852, 25.0367632]
+			},
+			"properties": {
+				"序號": 320,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區仁愛路三段24巷1-6號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5533861, 25.0248843]
+			},
+			"properties": {
+				"序號": 321,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區基隆路二段183號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5588739, 25.0337597]
+			},
+			"properties": {
+				"序號": 322,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區光復南路473巷29號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5664367, 24.9886364]
+			},
+			"properties": {
+				"序號": 323,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區木柵路三段55號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5615427, 25.0306362]
+			},
+			"properties": {
+				"序號": 324,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區莊敬路203號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5355537, 25.0132493]
+			},
+			"properties": {
+				"序號": 325,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區羅斯福路四段118號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5508357, 25.0474712]
+			},
+			"properties": {
+				"序號": 326,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區八德路三段12巷5弄6號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.562469, 25.059357]
+			},
+			"properties": {
+				"序號": 327,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區民生東路五段153-5號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.562013, 25.0568743]
+			},
+			"properties": {
+				"序號": 328,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區延壽街173號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5129743, 25.0627817]
+			},
+			"properties": {
+				"序號": 329,
+				"行政區": "大同區",
+				"餐廳地址": "臺北市大同區民權西路234號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5766267, 25.0398312]
+			},
+			"properties": {
+				"序號": 330,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區忠孝東路五段372巷27弄77-1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5848269, 25.0454044]
+			},
+			"properties": {
+				"序號": 331,
+				"行政區": "南港區",
+				"餐廳地址": "臺北市南港區同德路54號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5007431, 25.0282275]
+			},
+			"properties": {
+				"序號": 332,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區萬大路177號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.564411, 25.0264119]
+			},
+			"properties": {
+				"序號": 333,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區吳興街281巷14號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5675619, 25.0548011]
+			},
+			"properties": {
+				"序號": 334,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區健康路325巷6弄2號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5072371, 25.0479314]
+			},
+			"properties": {
+				"序號": 335,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區西寧南路24號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5175223, 25.0247792]
+			},
+			"properties": {
+				"序號": 336,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區廈門街75號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5622094, 25.033549]
+			},
+			"properties": {
+				"序號": 337,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區基隆路1段147巷12號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5795348, 25.0409208]
+			},
+			"properties": {
+				"序號": 338,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區忠孝東路5段524巷6號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5631431, 24.9848569]
+			},
+			"properties": {
+				"序號": 339,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區忠順街2段25號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5170502, 25.0659562]
+			},
+			"properties": {
+				"序號": 340,
+				"行政區": "大同區",
+				"餐廳地址": "臺北市大同區昌吉街27號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.593468, 25.0517065]
+			},
+			"properties": {
+				"序號": 341,
+				"行政區": "南港區",
+				"餐廳地址": "臺北市南港區昆陽街94號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5779883, 25.044465]
+			},
+			"properties": {
+				"序號": 342,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區松山路241號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.569051, 25.0252129]
+			},
+			"properties": {
+				"序號": 343,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區松仁路232號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.574784, 25.035552]
+			},
+			"properties": {
+				"序號": 344,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區松德路193號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5336666, 25.0483232]
+			},
+			"properties": {
+				"序號": 345,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區長安東路二段72號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.538196, 25.0545479]
+			},
+			"properties": {
+				"序號": 346,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區長春路238號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5568131, 25.0280847]
+			},
+			"properties": {
+				"序號": 347,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區基隆路二段131-2號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5635953, 25.0512548]
+			},
+			"properties": {
+				"序號": 348,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區南京東路五段186號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5141392, 25.0513849]
+			},
+			"properties": {
+				"序號": 349,
+				"行政區": "大同區",
+				"餐廳地址": "臺北市大同區重慶北路一段61號1F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5281052, 25.066501]
+			},
+			"properties": {
+				"序號": 350,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區新生北路三段69-1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5525518, 25.0546367]
+			},
+			"properties": {
+				"序號": 351,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區健康路15巷13號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5566417, 25.0496604]
+			},
+			"properties": {
+				"序號": 352,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區光復北路60巷19-4號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5234691, 25.0581196]
+			},
+			"properties": {
+				"序號": 353,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區民生東路一段5號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.53235, 25.054992]
+			},
+			"properties": {
+				"序號": 354,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區長春路147-2號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5531705, 25.0311876]
+			},
+			"properties": {
+				"序號": 355,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區通安街54號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5482845, 25.0592609]
+			},
+			"properties": {
+				"序號": 356,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區敦化北路222巷11號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5494309, 25.0310916]
+			},
+			"properties": {
+				"序號": 357,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區敦化南路二段63巷5號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5313452, 25.0425691]
+			},
+			"properties": {
+				"序號": 358,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區忠孝東路二段116號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5644302, 25.0500804]
+			},
+			"properties": {
+				"序號": 359,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區八德路四段245巷36號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5403908, 25.028878]
+			},
+			"properties": {
+				"序號": 360,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區瑞安街208巷26號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.546091, 25.0837391]
+			},
+			"properties": {
+				"序號": 361,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區大直街70號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5407221, 25.0644354]
+			},
+			"properties": {
+				"序號": 362,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區五常街85號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5406571, 25.0591671]
+			},
+			"properties": {
+				"序號": 363,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區龍江路244號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.501781, 25.126327]
+			},
+			"properties": {
+				"序號": 364,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區三合街二段463號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5151923, 25.1188482]
+			},
+			"properties": {
+				"序號": 365,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區立農街二段275號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5098272, 25.115199]
+			},
+			"properties": {
+				"序號": 366,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區實踐街62號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5102674, 25.052421]
+			},
+			"properties": {
+				"序號": 367,
+				"行政區": "大同區",
+				"餐廳地址": "臺北市大同區塔城街48號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5333692, 25.0370713]
+			},
+			"properties": {
+				"序號": 368,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區新生南路一段1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5553082, 25.0227967]
+			},
+			"properties": {
+				"序號": 369,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區信安街155號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.539317, 25.001724]
+			},
+			"properties": {
+				"序號": 370,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區羅斯福路五段233號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5852225, 25.0387457]
+			},
+			"properties": {
+				"序號": 371,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區福德街246號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6111361, 25.0555795]
+			},
+			"properties": {
+				"序號": 372,
+				"行政區": "南港區",
+				"餐廳地址": "臺北市南港區新民街81號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.544526, 24.997118]
+			},
+			"properties": {
+				"序號": 373,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區景興路40號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4918838, 25.0316158]
+			},
+			"properties": {
+				"序號": 374,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區雙園街148號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.494717, 25.0255072]
+			},
+			"properties": {
+				"序號": 375,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區寶興街109號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5668964, 25.0405044]
+			},
+			"properties": {
+				"序號": 376,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區台北市信義區忠孝東路五段 68 號 45 樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5432417, 25.0408932]
+			},
+			"properties": {
+				"序號": 377,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路三段300號B2"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5515234, 25.0849345]
+			},
+			"properties": {
+				"序號": 378,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區成功里明水路700號4樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5381856, 25.0453041]
+			},
+			"properties": {
+				"序號": 379,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區八德路二段174巷28號1-2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5653962, 25.0408461]
+			},
+			"properties": {
+				"序號": 380,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區忠孝東路五段8號B2"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5910904, 25.0728868]
+			},
+			"properties": {
+				"序號": 381,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區成功路二段325號B1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5641154, 25.0422637]
+			},
+			"properties": {
+				"序號": 382,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區忠孝東路四段559巷16弄8號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5562772, 25.0411571]
+			},
+			"properties": {
+				"序號": 383,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路四段300號10樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5248839, 25.0579236]
+			},
+			"properties": {
+				"序號": 384,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區民生東路一段52號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5229861, 25.0301176]
+			},
+			"properties": {
+				"序號": 385,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區杭州南路二段61巷12號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5448587, 25.0502905]
+			},
+			"properties": {
+				"序號": 386,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區敦化北路4巷56號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5692094, 25.0342819]
+			},
+			"properties": {
+				"序號": 387,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區松仁路123號3樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5050712, 25.039466]
+			},
+			"properties": {
+				"序號": 388,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區貴陽街二段36號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5483542, 25.0404437]
+			},
+			"properties": {
+				"序號": 389,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區敦化南路一段246號B2"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5246077, 25.0950492]
+			},
+			"properties": {
+				"序號": 390,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區?山路119-1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.534688, 25.0138569]
+			},
+			"properties": {
+				"序號": 391,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區羅斯福路四段90巷2-2號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5660665, 25.03531]
+			},
+			"properties": {
+				"序號": 392,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區台北市信義區松壽路 12 號 4 樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6149583, 25.0588333]
+			},
+			"properties": {
+				"序號": 393,
+				"行政區": "南港區",
+				"餐廳地址": "臺北市南港區台北市南港區經貿二路 186-1 號 2 樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5567811, 25.0824425]
+			},
+			"properties": {
+				"序號": 394,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區樂群三路200號5樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5245943, 25.105306]
+			},
+			"properties": {
+				"序號": 395,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區中山北路6段77號8樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5667147, 25.0395325]
+			},
+			"properties": {
+				"序號": 396,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區台北市信義區松高路 19 號 6 樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5431893, 25.0408977]
+			},
+			"properties": {
+				"序號": 397,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路三段300號11樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5169983, 25.0477467]
+			},
+			"properties": {
+				"序號": 398,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區北平西路 3 號 2 樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.568657, 25.0019389]
+			},
+			"properties": {
+				"序號": 399,
+				"行政區": "文山區",
+				"餐廳地址": "臺北市文山區萬美街一段19巷5之1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5222703, 25.0448687]
+			},
+			"properties": {
+				"序號": 400,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區忠孝東路一段12號B3"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5245943, 25.105306]
+			},
+			"properties": {
+				"序號": 401,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區中山北路6段77號8樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5432417, 25.0408932]
+			},
+			"properties": {
+				"序號": 402,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路三段300號10樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5910904, 25.0728868]
+			},
+			"properties": {
+				"序號": 403,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區成功路二段325號B1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5606895, 25.0502581]
+			},
+			"properties": {
+				"序號": 404,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區台北市松山區南京東路五段66巷16號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5196175, 25.1201823]
+			},
+			"properties": {
+				"序號": 405,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區石牌路二段201號生活廣場"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5597548, 25.0507753]
+			},
+			"properties": {
+				"序號": 406,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區光復北路103巷38號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5447843, 25.0420339]
+			},
+			"properties": {
+				"序號": 407,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路四段45號B1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5169983, 25.0477467]
+			},
+			"properties": {
+				"序號": 408,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區北平西路3號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5232167, 25.0553814]
+			},
+			"properties": {
+				"序號": 409,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區中山北路二段57號13樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5483374, 25.040247]
+			},
+			"properties": {
+				"序號": 410,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區敦化南路一段246號4樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5245943, 25.105306]
+			},
+			"properties": {
+				"序號": 411,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區中山北路六段77號7F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5483374, 25.040247]
+			},
+			"properties": {
+				"序號": 412,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區敦化南路一段246號6樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5449393, 25.0421272]
+			},
+			"properties": {
+				"序號": 413,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路四段45號11F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5605242, 25.057179]
+			},
+			"properties": {
+				"序號": 414,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區民生東路五段36巷8弄64號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5531003, 25.0303244]
+			},
+			"properties": {
+				"序號": 415,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區通安街80號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5449393, 25.0421272]
+			},
+			"properties": {
+				"序號": 416,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路四段45號11F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5483535, 25.0555893]
+			},
+			"properties": {
+				"序號": 417,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區敦化北路158號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5104581, 25.0511567]
+			},
+			"properties": {
+				"序號": 418,
+				"行政區": "大同區",
+				"餐廳地址": "臺北市大同區塔城街30號18樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5333229, 25.0407583]
+			},
+			"properties": {
+				"序號": 419,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路三段10巷22號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5449393, 25.0421272]
+			},
+			"properties": {
+				"序號": 420,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路四段45號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5168171, 25.0360978]
+			},
+			"properties": {
+				"序號": 421,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區中山南路77號B1F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5245943, 25.105306]
+			},
+			"properties": {
+				"序號": 422,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區中山北路六段77號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5527883, 25.0428493]
+			},
+			"properties": {
+				"序號": 423,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路四段223巷47號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5679552, 25.0367511]
+			},
+			"properties": {
+				"序號": 424,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區松仁路58號B3（A13 信義遠百 B3）"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5624299, 25.0504905]
+			},
+			"properties": {
+				"序號": 425,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區光復北路11巷99-1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5443146, 25.043562]
+			},
+			"properties": {
+				"序號": 426,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區復興南路一段107巷2號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5701236, 25.0426114]
+			},
+			"properties": {
+				"序號": 427,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區永吉路120巷82號1F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5526166, 25.0325558]
+			},
+			"properties": {
+				"序號": 428,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區文昌街128號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5327926, 25.0527859]
+			},
+			"properties": {
+				"序號": 429,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區松江路128號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5367066, 25.0130027]
+			},
+			"properties": {
+				"序號": 430,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區羅斯福路四段85號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.548289, 25.052006]
+			},
+			"properties": {
+				"序號": 431,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區南京東路3段337號3樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.546653, 25.041369]
+			},
+			"properties": {
+				"序號": 432,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區台北市大安區忠孝東路四段104號號2樓之1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5697476, 25.0815289]
+			},
+			"properties": {
+				"序號": 433,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區台北市內湖區內湖路一段320號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.578408, 25.041398]
+			},
+			"properties": {
+				"序號": 434,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區忠孝東路五段497號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5916764, 25.0818161]
+			},
+			"properties": {
+				"序號": 435,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區114臺北市內湖區成功路4段34號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5133358, 25.1143454]
+			},
+			"properties": {
+				"序號": 436,
+				"行政區": "北投區",
+				"餐廳地址": "臺北市北投區112臺北市北投區石牌路一段160號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5635976, 25.0546065]
+			},
+			"properties": {
+				"序號": 437,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區105臺北市松山區三民路25號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5697729, 25.0816378]
+			},
+			"properties": {
+				"序號": 438,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區114台北市內湖區內湖路一段318號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5052356, 25.0450004]
+			},
+			"properties": {
+				"序號": 439,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區108臺北市萬華區昆明街92-1號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5800003, 25.0423306]
+			},
+			"properties": {
+				"序號": 440,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區110臺北市信義區忠孝東路五段695號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.54732, 25.0412849]
+			},
+			"properties": {
+				"序號": 441,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區106臺北市大安區忠孝東路四段120號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5332018, 25.0473529]
+			},
+			"properties": {
+				"序號": 442,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區104臺北市中山區松江路27號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5274026, 25.0519124]
+			},
+			"properties": {
+				"序號": 443,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區104臺北市中山區南京東路一段138號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5274026, 25.0519124]
+			},
+			"properties": {
+				"序號": 444,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區104臺北市中山區南京東路一段138號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.606695, 25.0565743]
+			},
+			"properties": {
+				"序號": 445,
+				"行政區": "南港區",
+				"餐廳地址": "臺北市南港區115臺北市南港區興中路56巷3號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5441811, 25.0474029]
+			},
+			"properties": {
+				"序號": 446,
+				"行政區": "松山區",
+				"餐廳地址": "臺北市松山區105臺北市松山區復興南路一段1之1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5270267, 25.0650612]
+			},
+			"properties": {
+				"序號": 447,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區104臺北市中山區農安街57號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5242017, 25.0663764]
+			},
+			"properties": {
+				"序號": 448,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區104臺北市中山區雙城街34號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5598132, 25.0338075]
+			},
+			"properties": {
+				"序號": 449,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區台北市信義區基隆路一段426號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.527678, 25.0305646]
+			},
+			"properties": {
+				"序號": 450,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區金華街187號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5245943, 25.105306]
+			},
+			"properties": {
+				"序號": 451,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區中山北路六段77號8F"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6072597, 25.0528955]
+			},
+			"properties": {
+				"序號": 452,
+				"行政區": "南港區",
+				"餐廳地址": "臺北市南港區忠孝東路七段371號B1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5303548, 25.0506086]
+			},
+			"properties": {
+				"序號": 453,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區松江路90巷23號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6161399, 25.057195]
+			},
+			"properties": {
+				"序號": 454,
+				"行政區": "南港區",
+				"餐廳地址": "臺北市南港區經貿二路66號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5658739, 25.0397197]
+			},
+			"properties": {
+				"序號": 455,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區松高路11號5樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5407182, 25.0661129]
+			},
+			"properties": {
+				"序號": 456,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區龍江路356巷5號(近濱江市場)"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5910904, 25.0728868]
+			},
+			"properties": {
+				"序號": 457,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區成功路二段325號B1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5910904, 25.0728868]
+			},
+			"properties": {
+				"序號": 458,
+				"行政區": "內湖區",
+				"餐廳地址": "臺北市內湖區成功路二段325號B1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5660743, 25.0427073]
+			},
+			"properties": {
+				"序號": 459,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區基隆路一段147巷5弄5號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5193364, 25.0371269]
+			},
+			"properties": {
+				"序號": 460,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區中山南路21-1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5329008, 25.0563116]
+			},
+			"properties": {
+				"序號": 461,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區松江路182號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5323787, 25.0485926]
+			},
+			"properties": {
+				"序號": 462,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區長安東路二段49之1號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5431893, 25.0408977]
+			},
+			"properties": {
+				"序號": 463,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路三段300號11樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5067348, 25.0430538]
+			},
+			"properties": {
+				"序號": 464,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區成都路27巷8號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5489025, 25.1432836]
+			},
+			"properties": {
+				"序號": 465,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區格致路237號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5557198, 25.0812115]
+			},
+			"properties": {
+				"序號": 466,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區敬業三路123號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.519271, 25.0531227]
+			},
+			"properties": {
+				"序號": 467,
+				"行政區": "大同區",
+				"餐廳地址": "臺北市大同區南京西路57號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5147282, 25.0456618]
+			},
+			"properties": {
+				"序號": 468,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區館前路12號5樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5325902, 25.0523083]
+			},
+			"properties": {
+				"序號": 469,
+				"行政區": "中山區",
+				"餐廳地址": "臺北市中山區南京東路二段101號B1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5660665, 25.03531]
+			},
+			"properties": {
+				"序號": 470,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區松壽路12號4樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.6035521, 25.0524417]
+			},
+			"properties": {
+				"序號": 471,
+				"行政區": "南港區",
+				"餐廳地址": "臺北市南港區忠孝東路七段369號3樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5672818, 25.0387015]
+			},
+			"properties": {
+				"序號": 472,
+				"行政區": "信義區",
+				"餐廳地址": "臺北市信義區松高路16號B1"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5309857, 25.1229278]
+			},
+			"properties": {
+				"序號": 473,
+				"行政區": "士林區",
+				"餐廳地址": "臺北市士林區臺北市士林區天玉街81巷2號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5427645, 25.0244922]
+			},
+			"properties": {
+				"序號": 474,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區和平東路二段118巷2弄1號1樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5158349, 25.0454168]
+			},
+			"properties": {
+				"序號": 475,
+				"行政區": "中正區",
+				"餐廳地址": "臺北市中正區許昌街30號2樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5432417, 25.0408932]
+			},
+			"properties": {
+				"序號": 476,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區忠孝東路三段300號B2"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5334191, 25.0188775]
+			},
+			"properties": {
+				"序號": 477,
+				"行政區": "大安區",
+				"餐廳地址": "臺北市大安區新生南路三段84-6號3樓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5159704, 25.0651691]
+			},
+			"properties": {
+				"序號": 478,
+				"行政區": "大同區",
+				"餐廳地址": "臺北市大同區大龍街60號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5048008, 25.0423513]
+			},
+			"properties": {
+				"序號": 479,
+				"行政區": "萬華區",
+				"餐廳地址": "臺北市萬華區昆明街99號"
+			}
+		}
+	]
+}

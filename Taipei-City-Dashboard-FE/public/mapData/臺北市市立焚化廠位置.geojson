@@ -1,0 +1,44 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.603567,25.062766 ]
+    },
+    "properties": {
+    "序號":1,
+    "名稱":"內湖垃圾焚化廠",
+    "郵遞區號":11484,
+    "地址":"臺北市內湖區安康路290號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.587653,25.005823 ]
+    },
+    "properties": {
+    "序號":2,
+    "名稱":"木柵垃圾焚化廠",
+    "郵遞區號":11656,
+    "地址":"臺北市文山區木柵路五段53號"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.500444,25.108094 ]
+    },
+    "properties": {
+    "序號":3,
+    "名稱":"北投垃圾焚化廠",
+    "郵遞區號":11277,
+    "地址":"臺北市北投區洲美街271號"
+    }
+  }
+]
+}
